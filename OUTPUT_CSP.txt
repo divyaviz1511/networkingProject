@@ -1,0 +1,24 @@
+
+Receive request from SP3
+
+Sent positive reply to SP3
+
+Sent Accept for Request Frame 11 from SP3  to SP1
+
+Receive request from SP3
+
+Sent positive reply to SP3
+
+Sent Accept for Request Frame 13 from SP3  to SP1
+
+Receive request from SP2
+
+Sent positive reply to SP2
+
+Sent Accept for Request Frame 1 from SP2  to SP3
+
+Receive request from SP2
+
+Sent positive reply to SP2
+
+Sent Accept for Request Frame 2 from SP2  to SP4

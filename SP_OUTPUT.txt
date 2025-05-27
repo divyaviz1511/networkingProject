@@ -1,0 +1,33 @@
+
+Send request to CSP to send data frame 31 to SP 1
+
+Send request to CSP to send data frame 32 to SP 2
+
+Send request to CSP to send data frame 33 to SP 3
+
+Send request to CSP to send data frame 33 to SP 3
+
+Send request to CSP to send 
+Send request to CSP to send data frame 24 to SP 4
+
+Receive a data frame from SP 1
+
+Send request to CSP to send data frame 25 to SP 3
+
+Send request to CSP to send data frame 25 to SP 3
+
+Send request to CSP to send data frame 26 to SP 3
+
+Send data frame 26 to SP 2 
+
+Send request to CSP to send data frame 27 to SP 4
+
+Send request to CSP to send data frame 28 to SP 1
+
+Receive a data frame from SP 1
+
+Send request to CSP to send data frame 29 to SP 3
+
+Receive a data frame from SP 1
+
+Send request to CSP to send data frame 21 to SP 4

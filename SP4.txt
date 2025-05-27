@@ -1,0 +1,12 @@
+Frame 41, To Station 3
+Wait for receiving 2 frames
+Frame 42, To Station 1
+Frame 43, To Station 3
+Frame 44, To Station 2
+Frame 45, To Station 3
+Wait for receiving 3 frames
+Frame 46, To Station 1
+Frame 47, To Station 3
+Frame 48, To Station 2
+Frame 49, To Station 3
+Frame 49, To Station 1
